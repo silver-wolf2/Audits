@@ -19,7 +19,7 @@ This repository serves as an **educational resource** for developers, auditors, 
 ---
 
 ## 📢 Connect with Me:
-📌 **X (Twitter):** [VPanev](https://x.com/vladipanev)  
+📌 **X (Twitter):** [VPanev](https://x.com/thesilver_wolf2)  
 📌 **Telegram:** [VPanevv](https://t.me/VPanevv)  
 
 🔗 **Stay secure, stay vigilant!** 🚀
