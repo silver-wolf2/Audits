@@ -1,4 +1,4 @@
-# 🔍 VPanev - Smart Contract Security Audits
+# 🔍 Silver Wolf - Smart Contract Security Audits
 
 Welcome to my repository of **smart contract security audits** from past **contests and protocols**.  
 As a **smart contract security auditor**, my focus is on identifying vulnerabilities, ensuring protocol safety, and contributing to the overall security of the blockchain ecosystem.
