@@ -19,6 +19,7 @@ This repository serves as an **educational resource** for developers, auditors, 
 ---
 
 ## 📢 Connect with Me:
+📌 **Portfolio:** [Silver Wolf - portfolio]([https://t.me/VPanevv](https://silverwolf.framer.website/))  
 📌 **X (Twitter):** [Silver Wolf](https://x.com/thesilver_wolf2)  
 📌 **Telegram:** [VPanevv](https://t.me/VPanevv)  
 
